@@ -1,5 +1,20 @@
 .App {
   text-align: center;
+  margin: 5rem 0;
+  
+}
+p{
+  border: 2px solid #7CD2B3;
+  font-size: larger;
+  margin: 1rem 2rem;
+  border-radius: 6px;
+  padding: 1rem ;
+}
+button{
+  background: #7CD2B3;
+  border: none;
+  padding: 1rem 2rem;
+  border-radius: 6px;
 }
 
 .App-logo {
